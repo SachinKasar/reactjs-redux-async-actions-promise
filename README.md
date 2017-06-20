@@ -1,2 +1,20 @@
-# reactjs-redux-async-actions-promise
-reactjs-redux-async-actions-promise
+# Reactjs-Redux - Async actions
+
+
+1. Async-actions 
+2. redux-promise-middleware 
+  
+**Steps to follow**
+
+:one: clone git repo with 
+**npm clone https://github.com/SachinKasar/reactjs-redux-async-actions-promise.git**
+
+:two: install npm packages with command
+**npm install**
+
+:three: start webpack server
+**npm start**
+
+:four: hit the url in browser **http://localhost:8080/**
+
+
